@@ -1,0 +1,30 @@
+D:\MYLIBRARY\2017\2018 C# Baki\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe.config
+D:\MYLIBRARY\2017\2018 C# Baki\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.csprojResolveAssemblyReference.cache
+D:\MYLIBRARY\2017\2018 C# Baki\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe
+D:\MYLIBRARY\2017\2018 C# Baki\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.pdb
+D:\MYLIBRARY\2017\2018 C# Baki\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.exe
+D:\MYLIBRARY\2017\2018 C# Baki\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.pdb
+D:\MYLIBRARY\2017\2018 C# Baki\2018 ISRPPS\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe.config
+D:\MYLIBRARY\2017\2018 C# Baki\2018 ISRPPS\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.exe
+D:\MYLIBRARY\2017\2018 C# Baki\2018 ISRPPS\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.pdb
+C:\Users\stud\Desktop\SemenovAS C# baki\0. 2018 C# Baki\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe.config
+C:\Users\stud\Desktop\SemenovAS C# baki\0. 2018 C# Baki\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.exe
+C:\Users\stud\Desktop\SemenovAS C# baki\0. 2018 C# Baki\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.pdb
+C:\Users\Admin\Desktop\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe.config
+C:\Users\Admin\Desktop\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe
+C:\Users\Admin\Desktop\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.pdb
+C:\Users\Admin\Desktop\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.exe
+C:\Users\Admin\Desktop\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.pdb
+C:\Users\Admin\Desktop\jhfcd\говно\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe.config
+C:\Users\Admin\Desktop\jhfcd\говно\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe
+C:\Users\Admin\Desktop\jhfcd\говно\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.pdb
+C:\Users\Admin\Desktop\jhfcd\говно\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\jhfcd\говно\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.exe
+C:\Users\Admin\Desktop\jhfcd\говно\SemenovAS C# 2019\2018 ISRPPS +++\Lab_1_ISRPPS\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.pdb
+C:\Users\Admin\Desktop\ооп\ИСРППС\Ready\Lab_1_console_app\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe.config
+C:\Users\Admin\Desktop\ооп\ИСРППС\Ready\Lab_1_console_app\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.exe
+C:\Users\Admin\Desktop\ооп\ИСРППС\Ready\Lab_1_console_app\Lab_1_ISRPPS\bin\Debug\Lab_1_ISRPPS.pdb
+C:\Users\Admin\Desktop\ооп\ИСРППС\Ready\Lab_1_console_app\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ооп\ИСРППС\Ready\Lab_1_console_app\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.exe
+C:\Users\Admin\Desktop\ооп\ИСРППС\Ready\Lab_1_console_app\Lab_1_ISRPPS\obj\Debug\Lab_1_ISRPPS.pdb
